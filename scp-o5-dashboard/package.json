@@ -1,0 +1,30 @@
+{
+  "name": "scp-o5-dashboard",
+  "version": "1.0.0",
+  "description": "A dashboard for managing O5 candidates and their points in the SCP Foundation.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^12.0.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "@supabase/supabase-js": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "@types/react": "^17.0.0",
+    "@types/node": "^12.0.0"
+  },
+  "keywords": [
+    "SCP",
+    "O5",
+    "dashboard",
+    "management"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
